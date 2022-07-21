@@ -30,7 +30,9 @@ Promotions offered by all major gasoline companies partnered with Fuel Token as 
 Reflections from all worldwide transactions paid to holders in Fuel Tokens.
 
 ## :boom: Mission
+<center>
 <div style="text-align:center"><img src="./mission.png"/></div>
+</center>
 
 Fuel Token will be used as a global payment system to be
 accepted at gas stations all around the world.
