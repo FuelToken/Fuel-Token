@@ -14,14 +14,22 @@ Get Crypto & Cash Points Back at the Pump
 
 
 ## About Us
+
 In the year 2022, skyrocketing fuel prices have threatened livelihoods and social stability and is crippling the worldwide economy .
 Fuel Token provides a global payment system to be accepted at gas stations all around the world.
 
 Merchants can enable FUEL Token acceptance anywhere they currently receive payments, whether in-store, online, or in their FUEL mobile app. Fuel holders gain incredible crypto and points for cash rewards to offset the rising costs of gasoline.<br>
 [WHITEPAPER](https://fueltoken.net/wp-content/uploads/2022/07/FUEL-TOKEN-Whitepaper.pdf)
 
+<p align="center">
+<img src="./about.png" width="80%" height="80%"/>
+</p>
+
+
 ## :gift: Rewards
-<div style="text-align:center"><img src="./rewards.png"/></div>
+<p align="center">
+<img src="./rewards.png"/>
+</p>
 
 #### Points = Cash Back
 Promotions offered by all major gasoline companies partnered with Fuel Token as an affiliate marketing company.
@@ -30,7 +38,6 @@ Promotions offered by all major gasoline companies partnered with Fuel Token as 
 Reflections from all worldwide transactions paid to holders in Fuel Tokens.
 
 ## :boom: Mission
-
 <p align="center">
 <img src="./mission.png"/>
 </p>
