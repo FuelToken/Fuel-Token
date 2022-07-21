@@ -4,7 +4,8 @@
 
 # BUY GAS WITH CRYPTO AND SAVE!
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/z8eUTlHd8V0" title="Buy Gas with #Crypto & Save" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Buy Gas with #Crypto & Save](https://res.cloudinary.com/marcomontalbano/image/upload/v1658432740/video_to_markdown/images/youtube--z8eUTlHd8V0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=z8eUTlHd8V0 "Buy Gas with #Crypto & Save")
 
 ## FUEL REWARDS
 Get Crypto & Cash Points Back at the Pump
@@ -67,13 +68,6 @@ Initially started on the Binance Smart Chain (BNB) through PancakeSwap, FUEL wil
 |Buy Back:| 1%|
 
 ## Roadmap
-- ### Q4 2022
-    - 5,000,000 social media reach
-    - 1,000,000 Holders
-    - KuCoin Listing
-    - Binance Listing
-    - 10 additional exchange listings
-    - Partnerships with several leading gas companies
 - ### Q3 2022
     - Token deployment
     - Socials
@@ -85,6 +79,13 @@ Initially started on the Binance Smart Chain (BNB) through PancakeSwap, FUEL wil
     - 100,000 Holders
     - Massive marketing
     - CEX Listing
+- ### Q4 2022
+    - 5,000,000 social media reach
+    - 1,000,000 Holders
+    - KuCoin Listing
+    - Binance Listing
+    - 10 additional exchange listings
+    - Partnerships with several leading gas companies
 - ### Q2 2023
     - 25,000,000 social media reach
     - 10,000,000 Holders
