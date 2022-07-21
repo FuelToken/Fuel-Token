@@ -1,6 +1,6 @@
 
 
-<div style="text-align:center"><img src="./fuel.png" /></div>
+<div style="text-align:center"><img src="/fuel.png" /></div>
 
 # BUY GAS WITH CRYPTO AND SAVE!
 
