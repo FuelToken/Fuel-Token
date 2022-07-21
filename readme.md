@@ -375,13 +375,12 @@ meets the current standard of the web development industry.
 :green_circle: SSL Secured <br>
 :green_circle: No major spelling errors <br>
 
-
 ## Contact
-[Twitter](https://twitter.com/FuelToken_)
-[Telegram](https://twitter.com/FuelToken_)
-[Github](https://github.com/FuelToken)
-[Pinterest](https://www.pinterest.com/FuelToken)
-[Instagram](https://www.instagram.com/fueltoken_/)
-[Facebook](https://www.facebook.com/FuelToken)
-[Reddit](https://www.facebook.com/FuelToken)
-[Discord](https://discord.gg/mhKCBYcP)
+[Twitter](https://twitter.com/FuelToken_)<br>
+[Telegram](https://twitter.com/FuelToken_)<br>
+[Github](https://github.com/FuelToken)<br>
+[Pinterest](https://www.pinterest.com/FuelToken)<br>
+[Instagram](https://www.instagram.com/fueltoken_/)<br>
+[Facebook](https://www.facebook.com/FuelToken)<br>
+[Reddit](https://www.facebook.com/FuelToken)<br>
+[Discord](https://discord.gg/mhKCBYcP)<br>
