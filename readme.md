@@ -36,7 +36,7 @@ Fuel will be a Universal Token available and traded throughout all major crypto 
 Initially started on the Binance Smart Chain (BNB) through PancakeSwap, FUEL will become a true universally traded token with limited supply spread out over more networks than any other token in the world such as ETH, Polygon/Matic, Ripple/XRP, Hyperledger, Tezos, Steller, Corda & so many more with seamless cross chain conversions with our future developed platform.
 
 ## Tokenomics
-|Token Name:| FUEL|
+|Token Name:| :fuelpump: FUEL|
 |-|-|
 |Total Supply: |100,000,000|
 |1st Network:| Binance Smartchain/BSC|
