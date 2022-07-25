@@ -101,6 +101,7 @@ Initially started on the Binance Smart Chain (BNB) through PancakeSwap, FUEL wil
     - Initial development of cross chain network technology
     -Implementation of digital gas stat
 
+<div style="text-align:center"><img src="./Contract checket KYC.jpg" /></div>
 
 ## Contact
 [Twitter](https://twitter.com/FuelToken_)<br>
